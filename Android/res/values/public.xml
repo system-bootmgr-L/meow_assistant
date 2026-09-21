@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <public type="color" name="launcher_icon_background" id="0x7f010000" />
-    <public type="mipmap" name="ic_launcher" id="0x7f020000" />
-    <public type="mipmap" name="ic_launcher_foreground" id="0x7f020001" />
-    <public type="mipmap" name="ic_launcher_round" id="0x7f020002" />
-    <public type="style" name="HerGeneratedTheme" id="0x7f030000" />
-</resources>
